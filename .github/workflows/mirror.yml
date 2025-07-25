@@ -3,7 +3,7 @@ name: 同步
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # 每6小时运行一次
+    - cron: '0 0 */2 * *'  # 每6小时运行一次
   workflow_dispatch:     # 允许手动触发
 
 jobs:
@@ -57,12 +57,3 @@ jobs:
           SOURCE_GITHUB_TOKEN: ${{ secrets.SOURCE_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
           python mirror_github_releases.py
-      
-      - name: 提交同步记录
-        if: success()
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add synced_data.json
-          git commit -m "更新同步记录" || echo "无更新需要提交"
-          git push
