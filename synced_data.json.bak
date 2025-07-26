@@ -103,6 +103,10 @@
     "2279812": {
       "tag_name": "v1.2",
       "fully_synced_at": "2025-07-26 10:47:17.482799"
+    },
+    "2401855": {
+      "tag_name": "v1.3",
+      "fully_synced_at": "2025-07-26 10:47:38.440805"
     }
   },
   "assets": {
@@ -1056,6 +1060,56 @@
         "updated_at": "2025-07-26T10:47:38+00:00",
         "synced_at": "2025-07-26 10:47:38.438180"
       }
+    },
+    "2442801": {
+      "metadata.txt_614": {
+        "name": "metadata.txt",
+        "size": 614,
+        "updated_at": "2025-07-26T10:47:48+00:00",
+        "synced_at": "2025-07-26 10:47:48.871124"
+      },
+      "v2ray-linux-32.zip_1724423": {
+        "name": "v2ray-linux-32.zip",
+        "size": 1724423,
+        "updated_at": "2025-07-26T10:47:50+00:00",
+        "synced_at": "2025-07-26 10:47:50.482167"
+      },
+      "v2ray-linux-64.zip_1883691": {
+        "name": "v2ray-linux-64.zip",
+        "size": 1883691,
+        "updated_at": "2025-07-26T10:47:52+00:00",
+        "synced_at": "2025-07-26 10:47:52.195172"
+      },
+      "v2ray-linux-arm.zip_1691638": {
+        "name": "v2ray-linux-arm.zip",
+        "size": 1691638,
+        "updated_at": "2025-07-26T10:47:53+00:00",
+        "synced_at": "2025-07-26 10:47:53.803543"
+      },
+      "v2ray-linux-arm64.zip_1715812": {
+        "name": "v2ray-linux-arm64.zip",
+        "size": 1715812,
+        "updated_at": "2025-07-26T10:47:55+00:00",
+        "synced_at": "2025-07-26 10:47:55.483809"
+      },
+      "v2ray-macos.zip_2527998": {
+        "name": "v2ray-macos.zip",
+        "size": 2527998,
+        "updated_at": "2025-07-26T10:47:57+00:00",
+        "synced_at": "2025-07-26 10:47:57.145981"
+      },
+      "v2ray-windows-32.zip_1699896": {
+        "name": "v2ray-windows-32.zip",
+        "size": 1699896,
+        "updated_at": "2025-07-26T10:47:58+00:00",
+        "synced_at": "2025-07-26 10:47:58.784855"
+      },
+      "v2ray-windows-64.zip_1855376": {
+        "name": "v2ray-windows-64.zip",
+        "size": 1855376,
+        "updated_at": "2025-07-26T10:48:00+00:00",
+        "synced_at": "2025-07-26 10:48:00.362133"
+      }
     }
   },
   "source_codes": {
@@ -1327,6 +1381,16 @@
       "SourceCode_v1.3.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 10:47:25.130119"
+      }
+    },
+    "v1.4": {
+      "SourceCode_v1.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:47:45.676063"
+      },
+      "SourceCode_v1.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:47:47.133985"
       }
     }
   }
