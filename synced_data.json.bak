@@ -15,6 +15,10 @@
     "1833944": {
       "tag_name": "v0.4",
       "fully_synced_at": "2025-07-26 10:40:29.899704"
+    },
+    "1840560": {
+      "tag_name": "v0.5",
+      "fully_synced_at": "2025-07-26 10:40:39.704459"
     }
   },
   "assets": {
@@ -35,6 +39,44 @@
         "size": 5602251,
         "updated_at": "2025-07-26T10:40:39+00:00",
         "synced_at": "2025-07-26 10:40:39.702946"
+      }
+    },
+    "1873971": {
+      "v2ray-armv6.zip_987304": {
+        "name": "v2ray-armv6.zip",
+        "size": 987304,
+        "updated_at": "2025-07-26T10:40:48+00:00",
+        "synced_at": "2025-07-26 10:40:49.076133"
+      },
+      "v2ray-linux-32.zip_994851": {
+        "name": "v2ray-linux-32.zip",
+        "size": 994851,
+        "updated_at": "2025-07-26T10:40:50+00:00",
+        "synced_at": "2025-07-26 10:40:50.655180"
+      },
+      "v2ray-linux-64.zip_1083938": {
+        "name": "v2ray-linux-64.zip",
+        "size": 1083938,
+        "updated_at": "2025-07-26T10:40:52+00:00",
+        "synced_at": "2025-07-26 10:40:52.467850"
+      },
+      "v2ray-macos.zip_1439610": {
+        "name": "v2ray-macos.zip",
+        "size": 1439610,
+        "updated_at": "2025-07-26T10:40:53+00:00",
+        "synced_at": "2025-07-26 10:40:54.133413"
+      },
+      "v2ray-windows-32.zip_1050563": {
+        "name": "v2ray-windows-32.zip",
+        "size": 1050563,
+        "updated_at": "2025-07-26T10:40:55+00:00",
+        "synced_at": "2025-07-26 10:40:55.718760"
+      },
+      "v2ray-windows-64.zip_1050563": {
+        "name": "v2ray-windows-64.zip",
+        "size": 1050563,
+        "updated_at": "2025-07-26T10:40:57+00:00",
+        "synced_at": "2025-07-26 10:40:57.500900"
       }
     }
   },
@@ -87,6 +129,16 @@
       "SourceCode_v0.5.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 10:40:37.517621"
+      }
+    },
+    "v0.6": {
+      "SourceCode_v0.6.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:40:45.769477"
+      },
+      "SourceCode_v0.6.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:40:47.189246"
       }
     }
   }
