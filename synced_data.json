@@ -7,11 +7,16 @@
     "1833887": {
       "tag_name": "v0.2",
       "fully_synced_at": "2025-07-26 10:40:11.993230"
+    },
+    "1833924": {
+      "tag_name": "v0.3",
+      "fully_synced_at": "2025-07-26 10:40:19.987602"
     }
   },
   "assets": {
     "1833877": {},
-    "1833887": {}
+    "1833887": {},
+    "1833924": {}
   },
   "source_codes": {
     "v0.1": {
@@ -32,6 +37,16 @@
       "SourceCode_v0.2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 10:40:11.531989"
+      }
+    },
+    "v0.3": {
+      "SourceCode_v0.3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:40:18.014807"
+      },
+      "SourceCode_v0.3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:40:19.452916"
       }
     }
   }
