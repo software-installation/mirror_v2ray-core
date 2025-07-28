@@ -1211,6 +1211,10 @@
     "65929597": {
       "tag_name": "v5.0.6",
       "fully_synced_at": "2025-07-28 09:15:29.858897"
+    },
+    "69255564": {
+      "tag_name": "v5.0.7",
+      "fully_synced_at": "2025-07-28 09:17:36.276042"
     }
   },
   "assets": {
@@ -47650,6 +47654,16 @@
       "SourceCode_v5.0.7.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-28 09:15:46.066084"
+      }
+    },
+    "v4.45.1": {
+      "SourceCode_v4.45.1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-28 09:17:51.789524"
+      },
+      "SourceCode_v4.45.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-28 09:17:53.518515"
       }
     }
   }
