@@ -1123,6 +1123,10 @@
     "41584375": {
       "tag_name": "v4.38.0",
       "fully_synced_at": "2025-07-28 08:19:55.598512"
+    },
+    "42004394": {
+      "tag_name": "v4.38.1",
+      "fully_synced_at": "2025-07-28 08:21:32.764229"
     }
   },
   "assets": {
@@ -37353,6 +37357,290 @@
         "updated_at": "2025-07-28T08:19:55+00:00",
         "synced_at": "2025-07-28 08:19:55.552517"
       }
+    },
+    "42004394": {
+      "Release.unsigned_50285": {
+        "name": "Release.unsigned",
+        "size": 50285,
+        "updated_at": "2025-07-28T08:20:12+00:00",
+        "synced_at": "2025-07-28 08:20:12.185766"
+      },
+      "Release.unsigned.dgst_295": {
+        "name": "Release.unsigned.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:13+00:00",
+        "synced_at": "2025-07-28 08:20:13.646580"
+      },
+      "v2ray-android-arm64-v8a.zip_13153364": {
+        "name": "v2ray-android-arm64-v8a.zip",
+        "size": 13153364,
+        "updated_at": "2025-07-28T08:20:15+00:00",
+        "synced_at": "2025-07-28 08:20:15.668782"
+      },
+      "v2ray-android-arm64-v8a.zip.dgst_295": {
+        "name": "v2ray-android-arm64-v8a.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:17+00:00",
+        "synced_at": "2025-07-28 08:20:17.148010"
+      },
+      "v2ray-dragonfly-64.zip_12804072": {
+        "name": "v2ray-dragonfly-64.zip",
+        "size": 12804072,
+        "updated_at": "2025-07-28T08:20:18+00:00",
+        "synced_at": "2025-07-28 08:20:19.052335"
+      },
+      "v2ray-dragonfly-64.zip.dgst_295": {
+        "name": "v2ray-dragonfly-64.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:20+00:00",
+        "synced_at": "2025-07-28 08:20:20.483682"
+      },
+      "v2ray-extra.zip_296520": {
+        "name": "v2ray-extra.zip",
+        "size": 296520,
+        "updated_at": "2025-07-28T08:20:21+00:00",
+        "synced_at": "2025-07-28 08:20:21.937474"
+      },
+      "v2ray-freebsd-32.zip_12111547": {
+        "name": "v2ray-freebsd-32.zip",
+        "size": 12111547,
+        "updated_at": "2025-07-28T08:20:23+00:00",
+        "synced_at": "2025-07-28 08:20:23.895910"
+      },
+      "v2ray-freebsd-32.zip.dgst_295": {
+        "name": "v2ray-freebsd-32.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:25+00:00",
+        "synced_at": "2025-07-28 08:20:25.306828"
+      },
+      "v2ray-freebsd-64.zip_12890005": {
+        "name": "v2ray-freebsd-64.zip",
+        "size": 12890005,
+        "updated_at": "2025-07-28T08:20:27+00:00",
+        "synced_at": "2025-07-28 08:20:27.333981"
+      },
+      "v2ray-freebsd-64.zip.dgst_295": {
+        "name": "v2ray-freebsd-64.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:28+00:00",
+        "synced_at": "2025-07-28 08:20:28.746007"
+      },
+      "v2ray-linux-32.zip_12077134": {
+        "name": "v2ray-linux-32.zip",
+        "size": 12077134,
+        "updated_at": "2025-07-28T08:20:30+00:00",
+        "synced_at": "2025-07-28 08:20:30.598379"
+      },
+      "v2ray-linux-32.zip.dgst_295": {
+        "name": "v2ray-linux-32.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:31+00:00",
+        "synced_at": "2025-07-28 08:20:32.032152"
+      },
+      "v2ray-linux-64.zip_12830294": {
+        "name": "v2ray-linux-64.zip",
+        "size": 12830294,
+        "updated_at": "2025-07-28T08:20:33+00:00",
+        "synced_at": "2025-07-28 08:20:33.849324"
+      },
+      "v2ray-linux-64.zip.dgst_295": {
+        "name": "v2ray-linux-64.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:35+00:00",
+        "synced_at": "2025-07-28 08:20:35.405754"
+      },
+      "v2ray-linux-arm32-v5.zip_11884735": {
+        "name": "v2ray-linux-arm32-v5.zip",
+        "size": 11884735,
+        "updated_at": "2025-07-28T08:20:37+00:00",
+        "synced_at": "2025-07-28 08:20:37.266820"
+      },
+      "v2ray-linux-arm32-v5.zip.dgst_295": {
+        "name": "v2ray-linux-arm32-v5.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:38+00:00",
+        "synced_at": "2025-07-28 08:20:38.641757"
+      },
+      "v2ray-linux-arm32-v6.zip_11869052": {
+        "name": "v2ray-linux-arm32-v6.zip",
+        "size": 11869052,
+        "updated_at": "2025-07-28T08:20:40+00:00",
+        "synced_at": "2025-07-28 08:20:40.621167"
+      },
+      "v2ray-linux-arm32-v6.zip.dgst_295": {
+        "name": "v2ray-linux-arm32-v6.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:41+00:00",
+        "synced_at": "2025-07-28 08:20:41.999053"
+      },
+      "v2ray-linux-arm32-v7a.zip_11858861": {
+        "name": "v2ray-linux-arm32-v7a.zip",
+        "size": 11858861,
+        "updated_at": "2025-07-28T08:20:43+00:00",
+        "synced_at": "2025-07-28 08:20:43.971578"
+      },
+      "v2ray-linux-arm32-v7a.zip.dgst_295": {
+        "name": "v2ray-linux-arm32-v7a.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:45+00:00",
+        "synced_at": "2025-07-28 08:20:45.366706"
+      },
+      "v2ray-linux-arm64-v8a.zip_11777420": {
+        "name": "v2ray-linux-arm64-v8a.zip",
+        "size": 11777420,
+        "updated_at": "2025-07-28T08:20:47+00:00",
+        "synced_at": "2025-07-28 08:20:47.208817"
+      },
+      "v2ray-linux-arm64-v8a.zip.dgst_295": {
+        "name": "v2ray-linux-arm64-v8a.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:48+00:00",
+        "synced_at": "2025-07-28 08:20:48.679613"
+      },
+      "v2ray-linux-mips32.zip_11394529": {
+        "name": "v2ray-linux-mips32.zip",
+        "size": 11394529,
+        "updated_at": "2025-07-28T08:20:50+00:00",
+        "synced_at": "2025-07-28 08:20:50.746319"
+      },
+      "v2ray-linux-mips32.zip.dgst_295": {
+        "name": "v2ray-linux-mips32.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:52+00:00",
+        "synced_at": "2025-07-28 08:20:52.119437"
+      },
+      "v2ray-linux-mips32le.zip_11322620": {
+        "name": "v2ray-linux-mips32le.zip",
+        "size": 11322620,
+        "updated_at": "2025-07-28T08:20:53+00:00",
+        "synced_at": "2025-07-28 08:20:54.089594"
+      },
+      "v2ray-linux-mips32le.zip.dgst_295": {
+        "name": "v2ray-linux-mips32le.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:55+00:00",
+        "synced_at": "2025-07-28 08:20:55.472749"
+      },
+      "v2ray-linux-mips64.zip_11301329": {
+        "name": "v2ray-linux-mips64.zip",
+        "size": 11301329,
+        "updated_at": "2025-07-28T08:20:57+00:00",
+        "synced_at": "2025-07-28 08:20:57.365823"
+      },
+      "v2ray-linux-mips64.zip.dgst_295": {
+        "name": "v2ray-linux-mips64.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:20:58+00:00",
+        "synced_at": "2025-07-28 08:20:58.791010"
+      },
+      "v2ray-linux-mips64le.zip_11204433": {
+        "name": "v2ray-linux-mips64le.zip",
+        "size": 11204433,
+        "updated_at": "2025-07-28T08:21:00+00:00",
+        "synced_at": "2025-07-28 08:21:00.760179"
+      },
+      "v2ray-linux-mips64le.zip.dgst_295": {
+        "name": "v2ray-linux-mips64le.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:21:02+00:00",
+        "synced_at": "2025-07-28 08:21:02.233559"
+      },
+      "v2ray-linux-riscv64.zip_12535071": {
+        "name": "v2ray-linux-riscv64.zip",
+        "size": 12535071,
+        "updated_at": "2025-07-28T08:21:04+00:00",
+        "synced_at": "2025-07-28 08:21:04.464380"
+      },
+      "v2ray-linux-riscv64.zip.dgst_295": {
+        "name": "v2ray-linux-riscv64.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:21:05+00:00",
+        "synced_at": "2025-07-28 08:21:05.974970"
+      },
+      "v2ray-macos-64.zip_13297115": {
+        "name": "v2ray-macos-64.zip",
+        "size": 13297115,
+        "updated_at": "2025-07-28T08:21:08+00:00",
+        "synced_at": "2025-07-28 08:21:08.323513"
+      },
+      "v2ray-macos-64.zip.dgst_295": {
+        "name": "v2ray-macos-64.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:21:09+00:00",
+        "synced_at": "2025-07-28 08:21:09.864588"
+      },
+      "v2ray-macos-arm64-v8a.zip_13070749": {
+        "name": "v2ray-macos-arm64-v8a.zip",
+        "size": 13070749,
+        "updated_at": "2025-07-28T08:21:12+00:00",
+        "synced_at": "2025-07-28 08:21:12.188716"
+      },
+      "v2ray-macos-arm64-v8a.zip.dgst_295": {
+        "name": "v2ray-macos-arm64-v8a.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:21:13+00:00",
+        "synced_at": "2025-07-28 08:21:13.741104"
+      },
+      "v2ray-openbsd-32.zip_12030905": {
+        "name": "v2ray-openbsd-32.zip",
+        "size": 12030905,
+        "updated_at": "2025-07-28T08:21:15+00:00",
+        "synced_at": "2025-07-28 08:21:15.855172"
+      },
+      "v2ray-openbsd-32.zip.dgst_295": {
+        "name": "v2ray-openbsd-32.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:21:17+00:00",
+        "synced_at": "2025-07-28 08:21:17.363712"
+      },
+      "v2ray-openbsd-64.zip_12820720": {
+        "name": "v2ray-openbsd-64.zip",
+        "size": 12820720,
+        "updated_at": "2025-07-28T08:21:19+00:00",
+        "synced_at": "2025-07-28 08:21:19.506947"
+      },
+      "v2ray-openbsd-64.zip.dgst_295": {
+        "name": "v2ray-openbsd-64.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:21:20+00:00",
+        "synced_at": "2025-07-28 08:21:20.944060"
+      },
+      "v2ray-windows-32.zip_18935624": {
+        "name": "v2ray-windows-32.zip",
+        "size": 18935624,
+        "updated_at": "2025-07-28T08:21:23+00:00",
+        "synced_at": "2025-07-28 08:21:23.213172"
+      },
+      "v2ray-windows-32.zip.dgst_295": {
+        "name": "v2ray-windows-32.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:21:24+00:00",
+        "synced_at": "2025-07-28 08:21:24.667343"
+      },
+      "v2ray-windows-64.zip_19659050": {
+        "name": "v2ray-windows-64.zip",
+        "size": 19659050,
+        "updated_at": "2025-07-28T08:21:27+00:00",
+        "synced_at": "2025-07-28 08:21:27.218199"
+      },
+      "v2ray-windows-64.zip.dgst_295": {
+        "name": "v2ray-windows-64.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:21:28+00:00",
+        "synced_at": "2025-07-28 08:21:28.655172"
+      },
+      "v2ray-windows-arm32-v7a.zip_18287189": {
+        "name": "v2ray-windows-arm32-v7a.zip",
+        "size": 18287189,
+        "updated_at": "2025-07-28T08:21:31+00:00",
+        "synced_at": "2025-07-28 08:21:31.282968"
+      },
+      "v2ray-windows-arm32-v7a.zip.dgst_295": {
+        "name": "v2ray-windows-arm32-v7a.zip.dgst",
+        "size": 295,
+        "updated_at": "2025-07-28T08:21:32+00:00",
+        "synced_at": "2025-07-28 08:21:32.715005"
+      }
     }
   },
   "source_codes": {
@@ -40044,6 +40332,16 @@
       "SourceCode_v4.38.0.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-28 08:18:33.418752"
+      }
+    },
+    "v4.38.1": {
+      "SourceCode_v4.38.1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-28 08:20:08.902998"
+      },
+      "SourceCode_v4.38.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-28 08:20:10.391580"
       }
     }
   }
